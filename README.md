@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋, Mustkim here
+
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/gFhZjOtzoutSvckWPM/giphy.gif" width="500"/>
+</div>
+
+
+🔗 <a href= "https://bio-mustkim.netlify.app/">Connect with me!<a/>
+  
+  ![](https://komarev.com/ghpvc/?username=MustkimKhatik)
 
 <!--
 **MustkimKhatik/MustkimKhatik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
