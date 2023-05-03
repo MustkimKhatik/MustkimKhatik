@@ -1,12 +1,12 @@
 ### Hi there 👋,it's Mustkim
 
 
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/gFhZjOtzoutSvckWPM/giphy.gif" width="500"/>
-</div>
+</div> -->
 
 
-🔗 <a href= "https://bio-mustkim.netlify.app/">Connect with me!<a/>
+🔗 
   
   ![](https://komarev.com/ghpvc/?username=MustkimKhatik)
 
