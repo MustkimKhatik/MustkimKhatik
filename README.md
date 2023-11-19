@@ -2,8 +2,8 @@
 
 ### Connect with me 
 [![Twitter](https://img.shields.io/twitter/follow/hey_mustkim?style=social)](https://twitter.com/hey_mustkim)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue)](https://www.linkedin.com/in/Mustkimhere)
-[![Instagram](https://img.shields.io/badge/Instagram-YourName-orange)](https://www.instagram.com/hey.mustkim)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MustkimKhatik-blue)](https://www.linkedin.com/in/Mustkimhere)
+[![Instagram](https://img.shields.io/badge/Instagram-hey.mustkim-orange)](https://www.instagram.com/hey.mustkim)
 
 <!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/gFhZjOtzoutSvckWPM/giphy.gif" width="500"/>
