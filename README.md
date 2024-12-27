@@ -1,7 +1,7 @@
 ### Hi there 👋,it's Mustkim
 
 ### Connect with me 
-[![Twitter](https://img.shields.io/twitter/follow/hey_mustkim?style=social)](https://twitter.com/hey_mustkim)
+[![Twitter](https://img.shields.io/twitter/follow/hey_mustkim?style=social)](https://twitter.com/hey_mustakim)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MustkimKhatik-blue)](https://www.linkedin.com/in/Mustkimhere)
 [![Instagram](https://img.shields.io/badge/Instagram-hey.mustkim-orange)](https://www.instagram.com/hey.mustkim)
 
